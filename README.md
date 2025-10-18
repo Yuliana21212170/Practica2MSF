@@ -1,9 +1,8 @@
-[![Open in MATLAB Online]
-
-# Práctica: Sistema cardiovascular
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yuliana21212170/Practica2MSF)
+# Práctica 2: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Jocelyn Yuliana Navarrete Avalos \[21212170]; l21212170@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
