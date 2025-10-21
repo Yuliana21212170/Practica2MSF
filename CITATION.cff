@@ -12,11 +12,12 @@ authors:
     affiliation: TecNM-ITT
 repository-code: 'https://github.com/Yuliana21212170/Practica2MSF'
 keywords:
-  - Controlador I
-  - Sistema de control
+  - Controlador PI
+  - Hipertenso
+  - Hipotenso
+  - Normotenso
   - Funcion de transferencia
-  - Circuito RLC
 license: BSD-2-Clause
 commit: python
 version: '1.0'
-date-released: '2025-10-08'
+date-released: '2025-10-17'
